@@ -1,1 +1,1 @@
-# Lab0 repository: Machine Learning Project Management
+# Lab 0 repository: Machine Learning Project Management
